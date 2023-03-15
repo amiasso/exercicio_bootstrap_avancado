@@ -1,0 +1,47 @@
+
+nav ul li {
+    color: #fff;
+}
+#cabecalho {
+    width: 100%;
+    align-items: end;
+    background-color: blue;
+    color: #fff;
+    position: static;
+}
+#inicio {
+    background-color:blueviolet;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+}
+#filmes {
+    background-color: aquamarine;
+    text-align: center;
+    padding-bottom: 10px;
+}
+#series {
+    background-color: red;
+    text-align: center;
+    padding-bottom: 10px;
+}
+#carousel-exemplo .carousel-inner {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5%;
+    
+}
+
+.carousel-indicators {
+    background-color: blue;
+    max-width: 20%;
+}
+.container img {
+    max-width: 100%;
+    background-color: aqua;
+}
+
+
+
+
+
